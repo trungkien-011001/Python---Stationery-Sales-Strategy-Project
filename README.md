@@ -3,7 +3,7 @@ This project is using Python for analyzing a stationery dataset to find insight 
 ## 1. About Project:
 - The dataset contains information such as sales methods, customer_id, number of products sold, revenue, number of years people become  a customer, number of website visits, States.
 - Data source: Provided by Datacamp (the csv file)
-- Coding Platform: Jupyter Notebook
+- Platforms: Jupyter Notebook, PowerPoint
 - Python Libraries: Pandas, Numpy, Matplotlib, Seaborn
 ## 2. Project Aim:
 - To apply data cleaning such as standardizing data types, removing duplicates
